@@ -14,7 +14,7 @@ $APISettings = [
 ];
 
 // User name for fetching the last tweets
-$screen_name = '@dergrup';
+$screen_name = '@TWITTER_USERNAME';
 
 // How many tweets will be fetched?
 $tweetCount = 3;
